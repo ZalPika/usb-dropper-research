@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # usb-dropper-research
 Educational research on USB dropper malware with Discord C2
 =======
