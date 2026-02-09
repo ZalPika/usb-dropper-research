@@ -1,0 +1,8 @@
+*.exe
+*.dll
+*.pyc
+__pycache__/
+*.key
+*.token
+.DS_Store
+venv/
